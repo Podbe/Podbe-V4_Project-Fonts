@@ -27,7 +27,7 @@ Folgende Projekte wurden eingebunden
  - Ultraschall //New
  - Xenim
  
- <img src="https://raw.githubusercontent.com/Podbe/Podbe-V4_Project-Fonts/master/screencapture.png">
+ <img src="https://raw.githubusercontent.com/Podbe/Podbe-V4_Project-Fonts/master/view.png">
 
 
 Podbe unterstützen
