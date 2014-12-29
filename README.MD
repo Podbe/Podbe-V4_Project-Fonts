@@ -1,7 +1,7 @@
 Podbe in der 4.Generation:
 --------------------------
 Hier wurden alle für Podbe relevanten Projekte als Font überarbeitet und können frei verwendet werden:
-<img src="https://raw.githubusercontent.com/Podbe/Podbe-V4_Project-Fonts/master/podbe.de.png">
+<img src="https://raw.githubusercontent.com/Podbe/Podbe-V4_Project-Fonts/master/podbe.png">
 
 
 Folgende Projekte wurden eingebunden
