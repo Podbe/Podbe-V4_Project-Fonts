@@ -1,26 +1,38 @@
+Podbe in der 4.Generation:
+--------------------------
+Hier wurden alle für Podbe relevanten Projekte als Font überarbeitet und können frei verwendet werden:
+<img src="https://raw.githubusercontent.com/Podbe/Podbe-V4_Project-Fonts/master/podbe.de.png">
 
 
-All Projects
+Folgende Projekte wurden eingebunden
 -------------
 
 
  - Auphonic
  - Bitlove
  - Firtz
- - Hörsuppe
+ - Hörsuppe //New
  - Metaebene
- - Podbe.de
+ - Podbe.de //New
  - Podcast.de
  - PodcastIdeen
  - Podigee
- - Podlist
+ - Podlist //New
  - Podlove
  - PodPott
  - PodUnion
  - ReliveRadio
- - Shownotes
- - SoundCloud
- - Ultraschall
+ - Shownotes //New
+ - SoundCloud //New
+ - Ultraschall //New
  - Xenim
  
  <img src="https://raw.githubusercontent.com/Podbe/Podbe-V4_Project-Fonts/master/screencapture.png">
+
+
+Podbe unterstützen
+--------------------
+<!--McCouman-->
+<a href="https://flattr.com/thing/2842928/Podbe-Podcast-Verzeichnis">
+<img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
+alt="Flattr This" title="Flattr This" style="max-width:100%;"> Michael McCouman Jr.</a> 
