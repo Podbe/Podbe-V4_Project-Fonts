@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'podjects';
-	src:url('fonts/podjects.eot?-4bfhzd');
-	src:url('fonts/podjects.eot?#iefix-4bfhzd') format('embedded-opentype'),
-		url('fonts/podjects.woff?-4bfhzd') format('woff'),
-		url('fonts/podjects.ttf?-4bfhzd') format('truetype'),
-		url('fonts/podjects.svg?-4bfhzd#podjects') format('svg');
+	src:url('fonts/projects.eot?-4bfhzd');
+	src:url('fonts/projects.eot?#iefix-4bfhzd') format('embedded-opentype'),
+		url('fonts/projects.woff?-4bfhzd') format('woff'),
+		url('fonts/projects.ttf?-4bfhzd') format('truetype'),
+		url('fonts/projects.svg?-4bfhzd#podjects') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,6 +23,9 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.project-Patreon:before {
+	content: "\e611";
+}
 .project-Ultraschall-Icon:before {
 	content: "\e606";
 }
