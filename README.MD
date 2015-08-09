@@ -26,6 +26,7 @@ Folgende Projekte wurden eingebunden
  - SoundCloud //New
  - Ultraschall //New
  - Xenim
+ - Patreon
  
  <img src="https://raw.githubusercontent.com/Podbe/Podbe-V4_Project-Fonts/master/view.png">
 
